@@ -113,3 +113,9 @@ reward = (audit_score * 0.6) + (utility_confirmation * 0.3) + (consensus_alignme
 ```
 
 -----
+
+## First Challenge: Periscope
+
+See PERISCOPE.md for the first major challenge: decentralized multi-agent tool use and real-world problem solving under cartel-resistant scoring.
+
+-----
